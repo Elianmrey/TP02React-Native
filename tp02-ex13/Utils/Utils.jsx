@@ -1,0 +1,17 @@
+export const  questions = [
+    { question: "Qual é a capital do Brasil?", options: ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"], correctOption: "Brasília" },
+    { question: "Quanto é 2 + 2?", options: ["3", "4", "5", "6"], correctOption: "4" },
+    { question: "Quanto é 5 - 2?", options: ["2", "3", "4", "6"], correctOption: "3" },
+    { question: "Qual é o maior planeta do sistema solar?", options: ["Terra", "Marte", "Júpiter", "Saturno"], correctOption: "Júpiter" },
+    { question: "Quem pintou a Mona Lisa?", options: ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"], correctOption: "Leonardo da Vinci" },
+    { question: "Qual é o oceano que banha o Brasil?", options: ["Atlântico", "Pacífico", "Índico", "Ártico"], correctOption: "Atlântico" },
+    { question: "Quanto é 9 x 9?", options: ["81", "72", "69", "91"], correctOption: "81" },
+    { question: "Em que ano o homem pisou na Lua pela primeira vez?", options: ["1969", "1975", "1980", "1965"], correctOption: "1969" },
+    { question: "Qual país é conhecido como a Terra do Sol Nascente?", options: ["China", "Coreia", "Japão", "Tailândia"], correctOption: "Japão" },
+    { question: "Quem escreveu 'Dom Casmurro'?", options: ["José de Alencar", "Machado de Assis", "Clarice Lispector", "Guimarães Rosa"], correctOption: "Machado de Assis" },
+    { question: "Qual é o metal cujo símbolo químico é 'Au'?", options: ["Prata", "Ouro", "Ferro", "Cobre"], correctOption: "Ouro" },
+    { question: "Quantos continentes existem no mundo?", options: ["5", "6", "7", "8"], correctOption: "7" },
+    { question: "Qual é o maior órgão do corpo humano?", options: ["Coração", "Pulmão", "Fígado", "Pele"], correctOption: "Pele" },
+    { question: "Qual é o animal mais rápido do mundo?", options: ["Chita", "Leão", "Cavalo", "Falcão-peregrino"], correctOption: "Falcão-peregrino" },
+    { question: "Em que país se originou o futebol?", options: ["França", "Brasil", "Inglaterra", "Alemanha"], correctOption: "Inglaterra" },
+];
